@@ -3,7 +3,7 @@ import pytest
 
 def test_calcular_desconto_10_por_cento():
     resultado = calcular_desconto(100, 10)
-    assert resultado == 999
+    assert resultado == 90
     
 def test_calcular_desconto_0_por_cento():
     resultado = calcular_desconto(100, 0)
