@@ -1,5 +1,7 @@
 # Testes Automatizados com Pytest
 
+# [![Testes Automatizados](https://github.com/gabrielpe7/testes-pytest/actions/workflows/testes.yml/badge.svg)](https://github.com/gabrielpe7/testes-pytest/actions/workflows/testes.yml)
+
 Conjunto de funções de lógica de negócio (cálculo de desconto, frete e validação de pedidos) com testes automatizados usando Pytest, incluindo relatório de cobertura de código, desenvolvido como projeto de estudo.
 
 ## Funcionalidades

@@ -1,6 +1,6 @@
 name: Testes Automatizados
 
-on: push
+on: [push, pull_request]
 
 jobs:
   rodar-testes:
