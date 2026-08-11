@@ -1,0 +1,10 @@
+name: Testes Automatizados
+
+on: push
+
+jobs:
+  rodar-testes:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Dizer oi
+        run: echo "Olá, este é o primeiro workflow!"
